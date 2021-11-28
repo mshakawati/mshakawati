@@ -1,0 +1,9 @@
+{
+	"name": "mshakawatiDF",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4742f8e-4f7e-4c07-a6be-728a29cf868c",
+		"tenantId": "0a6a4539-3c1f-453f-9d56-abd75838e595"
+	}
+}
